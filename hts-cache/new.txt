@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:32:55	315/315	---M--	404	error ('Not%20Found')	text/html	date:Mon,%2010%20Oct%202022%2021:32:55%20GMT	http://augustberchelmann.com/robots.txt		(from )
+16:32:55	2763/2763	---M-Z	200	added ('OK')	text/html	date:Mon,%2008%20Jun%202020%2002:16:09%20GMT	http://augustberchelmann.com/mario/	C:/Users/lenovo/Desktop/HTTTRACK/Mario69/augustberchelmann.com/mario/index.html	(from )
+16:33:12	425308/425308	---M--	200	added ('OK')	application/javascript	date:Thu,%2018%20Jun%202020%2022:33:14%20GMT	http://augustberchelmann.com/mario/sm64.us.f3dex2e.js	C:/Users/lenovo/Desktop/HTTTRACK/Mario69/augustberchelmann.com/mario/sm64.us.f3dex2e.js	(from http://augustberchelmann.com/mario/)
